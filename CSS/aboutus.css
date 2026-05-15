@@ -1,0 +1,13 @@
+.gif-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 20px;
+    padding: 10px 12px;
+    margin: 0px 80px;
+}
+
+.gif-section img {
+    width: 70%;
+    padding: 10px 0px;
+}

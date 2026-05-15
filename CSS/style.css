@@ -1,0 +1,15 @@
+
+/** image section**/
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tv-images img {
+    height: 530px;
+    width: 100%;
+}
+
+
+
+
