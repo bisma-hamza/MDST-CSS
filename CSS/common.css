@@ -56,9 +56,10 @@ h2{
     width:58%;
     display: flex;
     gap: 10px;
+    margin-left: 270px;
 }
 .text-type input{
-    width: 55%;
+    width: 35%;
     height: 50px;
 }
 .text-type button{
