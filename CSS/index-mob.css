@@ -25,14 +25,20 @@ h2 {
 .text-type{
     width:100%;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     padding: 20px 20px;
+    margin-left: 0px;
 }
 .text-type input{
     width: 70%;
 }
 .text-type button{
     border-radius: 5px;
+}
+.icons{
+    margin-right: 0px;
+    margin-top: 0px;
+
 }
 footer {
     flex-direction: column;
